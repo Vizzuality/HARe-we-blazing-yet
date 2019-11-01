@@ -1,0 +1,16 @@
+{
+  "name": "hare-we-blazing-yet",
+  "version": "0.1.0",
+  "description": "A nifty tiny utility to perform HTTP load tests from HAR sessions",
+  "main": "index.js",
+  "scripts": {
+    "wi-test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Vizzuality <info@vizzuality.com> (https://vizzuality.com)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "newman": "^4.5.5"
+  }
+}
